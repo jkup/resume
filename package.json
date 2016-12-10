@@ -4,6 +4,7 @@
   "description": "A Github resume generator",
   "main": "app/server.js",
   "scripts": {
+    "start": "node app/server.js",
     "test": "test"
   },
   "repository": {
